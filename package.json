@@ -1,0 +1,15 @@
+{
+  "name": "serialize",
+  "description": "",
+  "author": "Chris Roth <chris@cjroth.com>",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "~1.17.1",
+    "should": "~3.1.2"
+  },
+  "repository": "git://github.com/cjroth/serialize",
+  "license": "MIT"
+}
